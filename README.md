@@ -1,4 +1,4 @@
-# moodboard
+# moodboard-A project by Ekta Chopra
 
 > "The best way to predict the future is to invent it." - Alan Kay
 
